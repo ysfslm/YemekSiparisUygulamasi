@@ -1,2 +1,2 @@
-# YemekSiparisUygulamasiKotlin
+Yemek Sipariş Uygulaması
  
